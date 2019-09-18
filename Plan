@@ -1,0 +1,15 @@
+/**Flower Delivery App**/
+
+/**Classes**/
+/**FlowerShop**/
+/**Customer**/
+/**Flower**/
+/**Driver**/
+/**Recipiant**/
+/**Links to enable donation to "plant a forest"/carbon-offset etc.**/
+
+/**Interactions
+/**A Flowershop has flowers,plants and cards that the customer can order**/
+/**A customer can order flowers & card for delivery to recipiant**/
+/**The driver picks up the flowers and delivers to recipiant**/
+/**The customer can make a donation on behalf of recipiant**/
